@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **PrajwalDhoble/PrajwalDhoble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,14 +9,24 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PrajwalDhoble&label=Profile%20views&color=0e75b6&style=flat" alt="PrajwalDhoble" /> </p>
 <img align="left" alt="coding" width="400" src="https://media.istockphoto.com/videos/young-man-cartoon-hd-animation-video-id1030543114?s=640x640"></img>
 <br><br>
-<h1 style="color:blue" align="right">Hi, I'm Prajwal Dhoble</h1>
+<h1 style="color:blue" align="right"># Hi there 👋, I'm Prajwal Dhoble</h1>
 <h3 align="right">MERN Stack Developer</h3>
-
-
-
-
 <br><br><br>
 <br>
+<h4>
+   An aspiring full stack web
+developer with the capability of
+adapting quickly to any given
+technology. Highly organized, self
+motivated and proficient with
+computers. Looking for an
+opportunity to utilize the skill set
+to solve customer problems and
+helping the organization grow
+along with improving the
+possessed skill set.</h4>
+<br><br><br>
+
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif"></img>
 
 - I'm currently learning **Full Stack course**
