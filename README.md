@@ -3,10 +3,13 @@
 <!--
 **PrajwalDhoble/PrajwalDhoble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<!-- ![MasterHead](https://media.istockphoto.com/videos/young-man-cartoon-hd-animation-video-id1030543114?s=640x640) -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwaldhoble&show_icons=true&locale=en&layout=compact" alt="prajwaldhoble" /></p>
 
-
+<!-- <a href="https://medium.com/@prajwaldhoble" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@prajwaldhoble" height="30" width="40" /></a>
+ -->
+<!-- <a href="https://dev.to/prajwaldhoble" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="prajwaldhoble" height="30" width="40" /></a> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PrajwalDhoble&label=Profile%20views&color=0e75b6&style=flat" alt="PrajwalDhoble" /> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prajwaldhoble" alt="prajwaldhoble" /></a> </p> -->
 <img align="left" alt="coding" width="400" src="https://media.istockphoto.com/videos/young-man-cartoon-hd-animation-video-id1030543114?s=640x640"></img>
 <br><br>
 <h1 style="color:blue" align="right"># Hi there 👋, I'm Prajwal Dhoble</h1>
@@ -39,6 +42,7 @@ possessed skill set.</h4>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+   <a href="https://medium.com/@prajwaldhoble" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@prajwaldhoble" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/prajwal-dhoble" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prajwal-dhoble" height="30" width="40" /></a>
 <!-- <a href="https://www.leetcode.com/user8069c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user8069c" height="30" width="40" /></a> -->
 </p>
