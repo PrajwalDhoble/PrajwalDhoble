@@ -38,7 +38,7 @@ possessed skill set.</h4>
 
 - How to reach me **prsjwaldhoble2000@gmail.com**
 
-- Know about my experiences [View Resume](https://drive.google.com/file/d/1PvrtyTx5AfToiQ-maRkkVyxidUQtVMmO/view?usp=sharing)
+- Know about my experiences [View Resume](https://drive.google.com/file/d/1vtEJYXxgWTNT6dsA52nBTwAXgVSmM_XP/view?usp=sharing)
 - My Portfolio [view portfolio](https://prajwaldhoble1.netlify.app)
 <br>
 <h3 align="left">Connect with me:</h3>
