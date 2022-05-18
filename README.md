@@ -34,7 +34,7 @@ possessed skill set.</h4>
 
 - I'm currently learning **Full Stack course**
 
-- Ask me about **ReactJs, HTML, CSS, JavaScipt**
+- Ask me about **ReactJS, HTML, CSS, JavaScript, NodeJS**
 
 - How to reach me **prsjwaldhoble2000@gmail.com**
 
